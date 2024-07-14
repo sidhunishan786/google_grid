@@ -1,6 +1,6 @@
 # google_grid
-This is a code to generate grid for drone & replace your own API key for code to work.
-It return the co-ordinates (lats and longs) of end point of lines on which drone will hover. 
+This is a code to generate grid for drone.
+It return the co-ordinates (latitudes and longitudes) of end point of lines on which drone will hover. 
 Input parameters are the vertices of the polygon which is the boundary of the field or plane for which you want to generate horizontal lines for.
 This works on basic principles of Co-ordinate geometery and line clipping algorithms of Computer Graphics.
 below are the screenshots of the output.
